@@ -1,0 +1,2 @@
+//TO-DO LIST WEB APPLICATION
+the “TO-DO List” app helps you stay organized by managing your tasks with its easy-to-use interface, you can add, delete, and priorities task. Plus, it gives you a motivational boost with random inspirational quotes. It’s a helpful tool to improve your productivity and keep everything in order. The to-do list developed for this project is meant to be a minimal, free and open-source application that can help improve the productivity of a user without taking anything. 
